@@ -90,6 +90,7 @@ class Kmin {
         PrintArray(arr, n);
         
 		System.out.print("K'th smallest element is " + kthSmallest(arr, 0, n-1, k));
+        sc.close();
 	}
 }
 
