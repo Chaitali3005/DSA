@@ -11,7 +11,9 @@ DSA Grooming
 1.7 Rotate Array by one clockwise  
 1.8 Max sum of Contiguous SubArray  
 1.9 Minimum Difference between shortest and longest tower  
-1.10 Minimum jumps required to ead end of array  
+1.10 Minimum jumps required to reach end of array  
+1.11 Find Duplicate in Array of N+1 Integers  
+
 
 
 
