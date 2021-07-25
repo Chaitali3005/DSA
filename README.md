@@ -14,7 +14,8 @@ DSA Grooming
 1.10 Minimum jumps required to reach end of array  
 1.11 Find Duplicate in Array of N+1 Integers  
 1.12 Merge Two Arrays in ascending order  
-1.13 Kadane's Algorithm(Largest contiguous subsequence sum)
+1.13 Kadane's Algorithm(Largest contiguous subsequence sum)  
+1.14 Merge Interval
 
 
 
